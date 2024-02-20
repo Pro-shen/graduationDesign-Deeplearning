@@ -1,0 +1,4 @@
+redPlate
+bluePlate
+greenPlate
+yellowPlate
