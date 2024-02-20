@@ -310,4 +310,4 @@ def main(opt):
 
 def startidentify(path):
     opt = parse_opt(path)
-    main(opt)
+    main(opt) 
