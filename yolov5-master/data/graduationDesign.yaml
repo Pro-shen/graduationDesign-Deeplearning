@@ -18,6 +18,10 @@ names:
   1: bluePlate
   2: greenPlate
   3: yellowPlate
+  4: pinkPlate
+  5: orangePlate
+  6: purplePlate
+  7: whitePlate
 
 # Download script/URL (optional)
 #download: https://ultralytics.com/assets/coco128.zip

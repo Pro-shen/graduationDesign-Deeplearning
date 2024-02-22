@@ -2,3 +2,7 @@ redPlate
 bluePlate
 greenPlate
 yellowPlate
+pinkPlate
+orangePlate
+purplePlate
+whitePlate
