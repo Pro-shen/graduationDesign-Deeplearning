@@ -4,7 +4,7 @@ import cv2
 def getFrame(videoPath, svPath):
     cap = cv2.VideoCapture(videoPath)
     numFrame = 0
-    n = 190
+    n = 0
     while True:
         if cap.grab():
             flag, frame = cap.retrieve()
@@ -32,5 +32,5 @@ def getFrame(videoPath, svPath):
 
 
 if __name__ == '__main__':
-    getFrame("/Users/shencheng/PycharmProjects/graduationDesign/video/12.mp4",
-             "/Users/shencheng/PycharmProjects/graduationDesign/img/")
+    getFrame("/Users/shencheng/PycharmProjects/graduationDesign/video/15.mp4",
+             "/Users/shencheng/PycharmProjects/graduationDesign/img1/")
